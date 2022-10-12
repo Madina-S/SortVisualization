@@ -1,4 +1,4 @@
 # SortVisualization
 Sorting visualization (bubble, merge and radix)
 
-Android app to visualize sorting. Response to challenge from @GrayWizard12345
+Android app to visualize sorting.
